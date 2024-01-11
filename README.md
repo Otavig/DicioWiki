@@ -21,6 +21,7 @@ Este é um projeto de dicionário online que utiliza uma API externa para obter 
 - HTML
 - CSS
 - JavaScript
+- Api
 
 ## Autor
 
