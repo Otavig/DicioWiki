@@ -1,0 +1,30 @@
+body {
+    background-color: #2e2e2e;
+    color: #ffffff;
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    background-color: rgb(39, 39, 39)
+}
+
+.navbar-brand {
+    font-size: 28px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+.word-container,
+#resultados {
+    background-color: #3d3d3d;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.none {
+    display: none;
+}
