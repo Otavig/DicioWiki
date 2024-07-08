@@ -25,12 +25,7 @@ Ou apenas digite `npm i` que automaticamente instala todas as dependências nece
 
 ## Tecnologias Utilizadas
 
-- Node.js
-- Express
-- HTML
-- CSS
-- JavaScript
-- Api
+- Node.js, Express, HTML, CSS, JavaScript e Api.
 
 ## Autor
 
