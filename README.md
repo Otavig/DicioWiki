@@ -4,10 +4,19 @@ Este é um projeto de dicionário online que utiliza uma API externa para obter 
 
 ## Instalação
 
-1. Clone o repositório: `git clone https://github.com/Otavig/DicioWiki.git`
-2. Instale as dependências (express, cors e axios): `npm install Nome da depêndencia` 
-3. Inicie o servidor: `node ./app.js`
+1 Clone o repositório:
 
+    git clone https://github.com/Otavig/DicioWiki.git
+
+2 Istale as dependências (express, cors e axios): 
+
+    npm install Nome da depêndencia
+Ou apenas digite `npm i` que automaticamente instala todas as dependências necessárias.
+
+3 Inicie o servidor:
+
+    node ./app.js
+  
 ## Uso
 
 - Acesse a aplicação em `http://localhost:3000`
