@@ -8,7 +8,7 @@ Este é um projeto de dicionário online que utiliza uma API externa para obter 
 
     git clone https://github.com/Otavig/DicioWiki.git
 
-2. Istale as dependências (express, cors e axios): 
+2. Faça a instalação das dependências: 
 
     npm install Nome da depêndencia
 Ou apenas digite `npm i` que automaticamente instala todas as dependências necessárias.
